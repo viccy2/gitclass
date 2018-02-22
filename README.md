@@ -1,0 +1,2 @@
+# gitclass
+Practice git stuf
